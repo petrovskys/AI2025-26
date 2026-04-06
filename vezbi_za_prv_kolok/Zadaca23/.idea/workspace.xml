@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d08332a-6d8c-4c53-b76d-8ec8d4061924" name="Changes" comment="" />
+    <list default="true" id="2055f5d0-b4c4-45cb-8e61-89d558b5bb6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Zadaca20/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadaca21/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadaca22/lele.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Zadaca22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Zadaca13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadaca13/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="3Bx5H8LGnQ2PeyQspsrxTfvUktA" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3C0BO4NFNP3VB11U7qkp0RsPsvn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,12 +28,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -48,29 +49,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d08332a-6d8c-4c53-b76d-8ec8d4061924" name="Changes" comment="" />
-      <created>1775417789756</created>
+      <changelist id="2055f5d0-b4c4-45cb-8e61-89d558b5bb6c" name="Changes" comment="" />
+      <created>1775512572980</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775417789756</updated>
-      <workItem from="1775417790782" duration="800000" />
-      <workItem from="1775430108636" duration="5000" />
-      <workItem from="1775502989669" duration="16000" />
+      <updated>1775512572980</updated>
+      <workItem from="1775512573997" duration="3103000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>423</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zadaca23$main.coverage" NAME="main Coverage Results" MODIFIED="1775515531618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
